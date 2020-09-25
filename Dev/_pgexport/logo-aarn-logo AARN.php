@@ -1,0 +1,1 @@
+<img class="brand-img img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/Untitled-1-03.png">
